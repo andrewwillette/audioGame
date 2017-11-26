@@ -18,6 +18,7 @@ var soundFiles = ["Audio/Love_Galore.wav", "Audio/Agony.mp3"];
 var soundText = ["Love Galore", "Agony and Ecstacy"];
 
 function main(){
+    console.log("working");
 	var body = $("body");
 	
 	var lightBlueColor = "#F0F8FF";
